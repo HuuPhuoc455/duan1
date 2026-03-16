@@ -1,0 +1,812 @@
+{
+  "categories": [
+    {
+      "id": "1",
+      "name": "Nam"
+    },
+    {
+      "id": "2",
+      "name": "Nữ"
+    },
+    {
+      "id": "3",
+      "name": "Trẻ em"
+    },
+    {
+      "id": "4",
+      "name": "Phụ kiện"
+    }
+  ],
+  "products": [
+    {
+      "id": "2",
+      "name": "Áo Sơ Mi Nam Trắng",
+      "price": 399000,
+      "sale": 15,
+      "salePrice": 339150,
+      "description": "Áo sơ mi nam lịch sự, phù hợp đi làm.",
+      "image": "/asm/Frontend/images/a2.webp",
+      "categoryId": 1,
+      "variants": [
+        {
+          "id": 4,
+          "color": "Trắng",
+          "size": "M",
+          "stock": 28
+        },
+        {
+          "id": 5,
+          "color": "Trắng",
+          "size": "L",
+          "stock": 20
+        }
+      ],
+      "images": [
+        "/asm/Frontend/images/a2.webp",
+        "https://buggy.yodycdn.com/images/raw/a07fa2e3c35d0dd294b8d20ce41fca22.jpeg",
+        "https://cdn.santino.com.vn/storage/upload/news/2023/05/ao-so-mi-nam-trang-11.jpg",
+        "https://cdn.santino.com.vn/storage/upload/news/2023/08/mau-ao-so-mi-nam-dep-2023-2024-02.jpg",
+        "https://anhduc.com.vn/uploads/source/ao-so-mi-dai-tay-regular-adt220-1.jpg"
+      ]
+    },
+    {
+      "id": "3",
+      "name": "Quần Jean Nam Slimfit",
+      "price": 499000,
+      "sale": 20,
+      "salePrice": 399200,
+      "description": "Quần jean slimfit, co giãn nhẹ.",
+      "image": "/asm/Frontend/images/a3.jpeg",
+      "categoryId": 1,
+      "variants": [
+        {
+          "id": 6,
+          "color": "Xanh",
+          "size": "29",
+          "stock": 15
+        },
+        {
+          "id": 7,
+          "color": "Xanh",
+          "size": "30",
+          "stock": 16
+        }
+      ],
+      "images": [
+        "/asm/Frontend/images/a3.jpeg",
+        "https://n7media.coolmate.me/uploads/2026/12/18/quan-jean-nam-basic-slim-fit-thumb-1-1.jpg",
+        "https://mcdn.coolmate.me/image/June2025/quan-jean-nam-slim-fit-la-item-duoc-cac-chang-trai-cuc-ki-yeu-thich.jpg",
+        "https://mcdn.coolmate.me/image/June2025/quan-jean-nam-xanh-dam-la-must-have-item-cua-cac-chang-trai_29.jpg",
+        "https://linhvnxk.com/wp-content/uploads/2020/05/quan-jean-lee-slimfit-12.jpg"
+      ]
+    },
+    {
+      "id": "4",
+      "name": "Áo Khoác Bomber Nam",
+      "price": 650000,
+      "sale": 25,
+      "salePrice": 487500,
+      "description": "Áo khoác bomber cá tính.",
+      "image": "/asm/Frontend/images/a4.jpg",
+      "categoryId": 1,
+      "variants": [
+        {
+          "id": 8,
+          "color": "Đen",
+          "size": "L",
+          "stock": 13
+        },
+        {
+          "id": 9,
+          "color": "Xanh",
+          "size": "XL",
+          "stock": 4
+        }
+      ],
+      "images": [
+        "/asm/Frontend/images/a4.jpg",
+        "https://zeanus.vn/upload/article/thumb/phoi-do-voi-ao-bomber-nam-cuon-hut-tung-chi-tiet-tinh-te_x750.jpg",
+        "https://www.caoto.vn/images/data/2021/04/28/08624421_3183119083335843840_o_29f8b3f8650a4e7196e5c86cc2db0ee1_master_c417f209491a4356964ef95f22eda50b_1.jpg",
+        "https://cdn.santino.com.vn/storage/upload/news/2023/11/ao-bomber-nam-mua-dong-04.jpg",
+        "https://www.gento.vn/wp-content/uploads/2024/10/ao-bomber-nam.jpg"
+      ]
+    },
+    {
+      "id": "5",
+      "name": "Áo Hoodie Nam",
+      "price": 520000,
+      "sale": 10,
+      "salePrice": 468000,
+      "description": "Hoodie nam form rộng.",
+      "image": "/asm/Frontend/images/a5.jpg",
+      "categoryId": 1,
+      "variants": [
+        {
+          "id": 10,
+          "color": "Xám",
+          "size": "M",
+          "stock": 19
+        },
+        {
+          "id": 11,
+          "color": "Đen",
+          "size": "L",
+          "stock": 15
+        }
+      ],
+      "images": [
+        "/asm/Frontend/images/a5.jpg",
+        "https://5sfashion.vn/storage/upload/images/posts/FNGyMPLVQ4jttRJGr5GWn0q9EVbIfhHMvfFjVoG4.jpg",
+        "https://bizweb.dktcdn.net/100/399/392/files/gioi-thieu-ve-ao-khoac-hoodie-nam.jpg?v=1679892362179",
+        "https://img.vuahanghieu.com/unsafe/0x700/left/top/smart/filters:quality(90)/https://admin.vuahanghieu.com/upload/news/2021/11/top-15-ao-hoodie-nam-form-rong-duoc-yeu-thich-nhat-hien-nay-09112021155020.jpg",
+        "https://file.hstatic.net/1000360022/file/mau-ao-hoodie-zipper_9ba53c1128914c868d5021d90988fc72.jpg"
+      ]
+    },
+    {
+      "id": "6",
+      "name": "Đầm Maxi Nữ Hè",
+      "price": 589000,
+      "sale": 30,
+      "salePrice": 412300,
+      "description": "Đầm maxi nữ đi biển.",
+      "image": "/asm/Frontend/images/a6.jpg",
+      "categoryId": 2,
+      "variants": [
+        {
+          "id": 12,
+          "color": "Vàng",
+          "size": "S",
+          "stock": 20
+        },
+        {
+          "id": 13,
+          "color": "Trắng",
+          "size": "M",
+          "stock": 15
+        }
+      ],
+      "images": [
+        "/asm/Frontend/images/a6.jpg",
+        "https://file.hstatic.net/1000178779/file/o63m24h009-f1824__4_copy_0024db355724404d83aae9f9675c0571.jpg",
+        "https://kenh14cdn.com/203336854389633024/2022/6/29/photo-2-1656494231538798143285.jpg",
+        "https://maydongphucglu.com/wp-content/uploads/2024/10/vay-dong-phuc-di-bien-02.jpg",
+        "https://whitechic.vn/wp-content/uploads/2023/02/dam-maxi-di-bien-cach-dieu.jpg"
+      ]
+    },
+    {
+      "id": "7",
+      "name": "Áo Thun Nữ Crop Top",
+      "price": 280000,
+      "sale": 5,
+      "salePrice": 266000,
+      "description": "Crop top trẻ trung.",
+      "image": "/asm/Frontend/images/a7.webp",
+      "categoryId": 2,
+      "variants": [
+        {
+          "id": 14,
+          "color": "Hồng",
+          "size": "S",
+          "stock": 16
+        },
+        {
+          "id": 15,
+          "color": "Đen",
+          "size": "M",
+          "stock": 17
+        }
+      ],
+      "images": [
+        "/asm/Frontend/images/a7.webp",
+        "https://icado.vn/wp-content/uploads/2020/11/ao-croptop-the-thao-nu-at5-3.jpg",
+        "https://cdn.tgdd.vn/Files/2023/10/03/1550116/goi-y-10-cach-phoi-do-voi-croptop-hong-dep-cho-nu-202310030931413040.jpg",
+        "https://cdn.tgdd.vn/Files/2023/10/03/1550116/goi-y-10-cach-phoi-do-voi-croptop-hong-dep-cho-nu-202310030930364031.jpg",
+        "https://cdn.tgdd.vn/Files/2023/10/03/1550116/goi-y-10-cach-phoi-do-voi-croptop-hong-dep-cho-nu-202310030933001422.jpg"
+      ]
+    },
+    {
+      "id": "8",
+      "name": "Váy Công Sở Nữ",
+      "price": 520000,
+      "sale": 15,
+      "salePrice": 442000,
+      "description": "Váy công sở thanh lịch.",
+      "image": "/asm/Frontend/images/a8.webp",
+      "categoryId": 2,
+      "variants": [
+        {
+          "id": 16,
+          "color": "Đen",
+          "size": "M",
+          "stock": 20
+        }
+      ],
+      "images": [
+        "/asm/Frontend/images/a8.webp",
+        "https://gumac.vn/media/catalog/product/cache/1/image/9df78eab33525d08d6e5fb8d27136e95/v/a/vay-cong-so-den-1.jpg",
+        "https://file.hstatic.net/1000178779/file/vay-cong-so-den-cao-cap.jpg",
+        "https://lamia.com.vn/wp-content/uploads/2023/05/vay-cong-so-den.jpg",
+        "https://juno.vn/media/catalog/product/cache/1/image/9df78eab33525d08d6e5fb8d27136e95/v/a/vay-cong-so-den-2.jpg"
+      ]
+    },
+    {
+      "id": "9",
+      "name": "Áo Sơ Mi Nữ Tay Dài",
+      "price": 399000,
+      "sale": 10,
+      "salePrice": 359100,
+      "description": "Áo sơ mi nữ thanh lịch.",
+      "image": "/asm/Frontend/images/a9.jpg",
+      "categoryId": 2,
+      "variants": [
+        {
+          "id": 17,
+          "color": "Trắng",
+          "size": "M",
+          "stock": 30
+        }
+      ],
+      "images": [
+        "/asm/Frontend/images/a9.jpg",
+        "https://anhduc.com.vn/uploads/source/ao-so-mi-dai-tay-regular-adt220-1.jpg",
+        "https://gumac.vn/media/catalog/product/cache/1/image/9df78eab33525d08d6e5fb8d27136e95/a/o/ao-so-mi-nu-trang-tay-dai.jpg",
+        "https://thoitrangmc.vn/uploads/source/ao-so-mi-trang-dai-tay-co-ban-1.jpg",
+        "https://lamia.com.vn/wp-content/uploads/2023/05/ao-so-mi-nu-trang-dai-tay.jpg"
+      ]
+    },
+    {
+      "id": "10",
+      "name": "Quần Tây Nữ",
+      "price": 450000,
+      "sale": 20,
+      "salePrice": 360000,
+      "description": "Quần tây nữ tôn dáng.",
+      "image": "/asm/Frontend/images/a10.webp",
+      "categoryId": 2,
+      "variants": [
+        {
+          "id": 18,
+          "color": "Đen",
+          "size": "M",
+          "stock": 25
+        }
+      ],
+      "images": [
+        "/asm/Frontend/images/a10.webp",
+        "https://anhduc.com.vn/uploads/source/quan-tay-nu-qnad2232-1.jpg",
+        "https://gumac.vn/media/catalog/product/cache/1/image/9df78eab33525d08d6e5fb8d27136e95/q/u/quan-tay-nu-den-slim-fit.jpg",
+        "https://myoneuniform.com/cdn/shop/products/quan-tay-nu-lung-thun-den.jpg",
+        "https://thanhnien.vn/stores/news_dataimages/thanhnien/122024/08122024/2024_12_08_quan-tay-den-slim-fit.jpg"
+      ]
+    },
+    {
+      "id": "11",
+      "name": "Áo Thun Trẻ Em In Hình",
+      "price": 189000,
+      "sale": 0,
+      "salePrice": 189000,
+      "description": "Áo cotton an toàn cho bé.",
+      "image": "/asm/Frontend/images/a11.jpg",
+      "categoryId": 3,
+      "variants": [
+        {
+          "id": 19,
+          "color": "Xanh",
+          "size": "100",
+          "stock": 40
+        }
+      ],
+      "images": [
+        "/asm/Frontend/images/a11.jpg",
+        "https://www2.hm.com/vi_vn/productpage.1234567890.html",
+        "https://litibaby.com/cdn/shop/products/ao-bg-liti-in-hinh-1-5-x23.jpg",
+        "https://rabity.vn/cdn/shop/products/ao-thun-be-trai-capybara.jpg",
+        "https://yody.vn/cdn/shop/products/ao-thun-tre-em-in-hinh.jpg"
+      ]
+    },
+    {
+      "id": "12",
+      "name": "Quần Short Trẻ Em",
+      "price": 220000,
+      "sale": 10,
+      "salePrice": 198000,
+      "description": "Quần short trẻ em.",
+      "image": "/asm/Frontend/images/a12.webp",
+      "categoryId": 3,
+      "variants": [
+        {
+          "id": 20,
+          "color": "Đỏ",
+          "size": "110",
+          "stock": 29
+        }
+      ],
+      "images": [
+        "/asm/Frontend/images/a12.webp",
+        "https://www.decathlon.vn/p/quan-short-da-bong-tre-em-essential-do-kipsta-8558492.jpg",
+        "https://shopee.vn/Qu%E1%BA%A7n-short-l%C6%B0%E1%BB%9Bt-v%C3%A1n-100-cho-tr%E1%BA%BB-em-%C4%91%E1%BB%8F-m%E1%BA%ADn-DECATHLON-olaian-m%C3%A3-8559022-i.272527398.20867454472",
+        "https://www2.hm.com/vi_vn/productpage.1031527014.html",
+        "https://www.zara.com/vn/vi/6-14-tuoi--quan-short-boi-ke-soc-p05644482.html"
+      ]
+    },
+    {
+      "id": "13",
+      "name": "Bộ Đồ Bé Gái",
+      "price": 320000,
+      "sale": 15,
+      "salePrice": 272000,
+      "description": "Bộ đồ bé gái dễ thương.",
+      "image": "/asm/Frontend/images/a13.jpg",
+      "categoryId": 3,
+      "variants": [
+        {
+          "id": 21,
+          "color": "Hồng",
+          "size": "100",
+          "stock": 20
+        }
+      ],
+      "images": [
+        "/asm/Frontend/images/a13.jpg",
+        "https://thoitrangvietthang.vn/uploads/source/bo-do-be-gai-pc526423-1.jpg",
+        "https://bibomart.com.vn/cdn/shop/products/set-vay-yem-mix-ao-coc-tay-bibo-s-xo-hong-theu-tho.jpg",
+        "https://jadiny.vn/cdn/shop/products/do-bo-be-gai-hong-pastel.jpg",
+        "https://yfk.vn/uploads/news/cach-chon-do-bo-cho-be-gai-de-thuong.jpg"
+      ]
+    },
+    {
+      "id": "14",
+      "name": "Bộ Đồ Bé Trai",
+      "price": 340000,
+      "sale": 10,
+      "salePrice": 306000,
+      "description": "Bộ đồ bé trai thoải mái.",
+      "image": "/asm/Frontend/images/a14.jpg",
+      "categoryId": 3,
+      "variants": [
+        {
+          "id": 22,
+          "color": "Xanh",
+          "size": "110",
+          "stock": 25
+        }
+      ],
+      "images": [
+        "/asm/Frontend/images/a14.jpg",
+        "https://vinakids.vn/uploads/products/do-bo-be-trai-cos-mau-xanh-duong.jpg",
+        "https://kiteny.com/cdn/shop/products/bo-quan-ao-be-trai-sat-nach-xanh.jpg",
+        "https://shopee.vn/8-30kg-Set-b%E1%BB%99-b%C3%A9-trai-qu%E1%BA%A7n-%C3%A1o-b%C3%A9-trai-ch%E1%BA%A5t-cotton-m%C3%A0u-xanh-h%C3%A0n-qu%E1%BB%91c.jpg",
+        "https://www.avakids.com/cdn/shop/products/bo-tay-ngan-be-trai-rabity-92474-mau-xanh-la.jpg"
+      ]
+    },
+    {
+      "id": "15",
+      "name": "Áo Khoác Trẻ Em",
+      "price": 420000,
+      "sale": 20,
+      "salePrice": 336000,
+      "description": "Áo khoác giữ ấm cho bé.",
+      "image": "/asm/Frontend/images/a15.webp",
+      "categoryId": 3,
+      "variants": [
+        {
+          "id": 23,
+          "color": "Xám",
+          "size": "120",
+          "stock": 15
+        }
+      ],
+      "images": [
+        "/asm/Frontend/images/a15.webp",
+        "https://www.decathlon.vn/p/ao-khoac-hiking-tre-em-chong-tham-nuoc-mh100-xam-quechua-8851658.jpg",
+        "https://sakurafashion.vn/cdn/shop/products/ao-khoac-phao-chong-tham-xam.jpg",
+        "https://shopee.vn/ao-khoac-gio-tre-em-indochi-2-lop-xam.jpg",
+        "https://antakids.vn/cdn/shop/products/ao-khoac-gio-mua-thu-tre-em-xam.jpg"
+      ]
+    },
+    {
+      "id": "16",
+      "name": "Túi Xách Thời Trang Nữ",
+      "price": 480000,
+      "sale": 20,
+      "salePrice": 384000,
+      "description": "Túi xách nữ hiện đại.",
+      "image": "/asm/Frontend/images/a16.jpg",
+      "categoryId": 4,
+      "variants": [
+        {
+          "id": 24,
+          "color": "Đen",
+          "stock": 20
+        }
+      ],
+      "images": [
+        "/asm/Frontend/images/a16.jpg",
+        "https://www.charleskeith.vn/vn/media/catalog/product/cache/1/image/9df78eab33525d08d6e5fb8d27136e95/t/u/tui-xach-den-ck.jpg",
+        "https://juno.vn/media/catalog/product/cache/1/image/9df78eab33525d08d6e5fb8d27136e95/t/u/tui-xach-nu-den.jpg",
+        "https://lacamie.com/cdn/shop/products/tui-xach-nu-den-cong-so.jpg",
+        "https://ngaosofficial.com/cdn/shop/products/tui-xach-den-da-pu.jpg"
+      ]
+    },
+    {
+      "id": "17",
+      "name": "Kính Râm Unisex",
+      "price": 350000,
+      "sale": 10,
+      "salePrice": 315000,
+      "description": "Kính râm chống UV.",
+      "image": "/asm/Frontend/images/a17.jpg",
+      "categoryId": 4,
+      "variants": [
+        {
+          "id": 25,
+          "color": "Đen",
+          "stock": 30
+        }
+      ],
+      "images": [
+        "/asm/Frontend/images/a17.jpg",
+        "https://kinhmateyeplus.com/cdn/shop/products/kinh-ram-eyeplus-2231-den-nham.jpg",
+        "https://kinhhaitrieu.com/cdn/shop/products/rayban-rb3548n-den.jpg",
+        "https://tinybox.vn/cdn/shop/products/kinh-den-chong-tia-uv-unisex.jpg",
+        "https://tonyluxury.vn/cdn/shop/products/kinh-ram-chong-uv-unisex-den.jpg"
+      ]
+    },
+    {
+      "id": "18",
+      "name": "Thắt Lưng Da Nam",
+      "price": 290000,
+      "sale": 0,
+      "salePrice": 290000,
+      "description": "Thắt lưng da thật.",
+      "image": "/asm/Frontend/images/a18.jpg",
+      "categoryId": 4,
+      "variants": [
+        {
+          "id": 26,
+          "color": "Nâu",
+          "stock": 40
+        }
+      ],
+      "images": [
+        "/asm/Frontend/images/a18.jpg",
+        "https://coolmate.me/cdn/shop/products/that-lung-da-nam-nâu.jpg",
+        "https://yody.vn/cdn/shop/products/that-lung-da-that-nam.jpg",
+        "https://routine.vn/cdn/shop/products/thắt-lưng-da-nam-nâu.jpg",
+        "https://santino.com.vn/cdn/shop/products/that-lung-da-nam.jpg"
+      ]
+    },
+    {
+      "id": "19",
+      "name": "Mũ Lưỡi Trai",
+      "price": 180000,
+      "sale": 5,
+      "salePrice": 171000,
+      "description": "Mũ lưỡi trai năng động.",
+      "image": "/asm/Frontend/images/a19.jpg",
+      "categoryId": 4,
+      "variants": [
+        {
+          "id": 27,
+          "color": "Đen",
+          "stock": 50
+        }
+      ],
+      "images": [
+        "/asm/Frontend/images/a19.jpg",
+        "https://coolmate.me/cdn/shop/products/mu-luoi-trai-den.jpg",
+        "https://yody.vn/cdn/shop/products/mu-luoi-trai-nam-nu-den.jpg",
+        "https://routine.vn/cdn/shop/products/mu-luoi-trai-den.jpg",
+        "https://5sfashion.vn/cdn/shop/products/mu-luoi-trai-nang-dong.jpg"
+      ]
+    },
+    {
+      "id": "20",
+      "name": "Ví Da Thời Trang",
+      "price": 420000,
+      "sale": 15,
+      "salePrice": 357000,
+      "description": "Ví da cao cấp.",
+      "image": "/asm/Frontend/images/a20.jpg",
+      "categoryId": 4,
+      "variants": [
+        {
+          "id": 28,
+          "color": "Đen",
+          "stock": 35
+        }
+      ],
+      "images": [
+        "/asm/Frontend/images/a20.jpg",
+        "https://juno.vn/cdn/shop/products/vi-da-nu-den.jpg",
+        "https://charleskeith.vn/cdn/shop/products/vi-da-den.jpg",
+        "https://ngaosofficial.com/cdn/shop/products/vi-da-thoi-trang-den.jpg",
+        "https://gumac.vn/cdn/shop/products/vi-da-nu-den.jpg"
+      ]
+    },
+    {
+      "id": "21",
+      "name": "Áo Polo Nam Cao Cấp",
+      "price": 359000,
+      "sale": 10,
+      "salePrice": 323100,
+      "description": "Áo polo nam lịch sự.",
+      "image": "/asm/Frontend/images/a21.avif",
+      "categoryId": 1,
+      "variants": [
+        {
+          "id": 29,
+          "color": "Xanh Navy",
+          "size": "M",
+          "stock": 20
+        },
+        {
+          "id": 30,
+          "color": "Đen",
+          "size": "L",
+          "stock": 18
+        }
+      ],
+      "images": [
+        "/asm/Frontend/images/a21.avif",
+        "https://coolmate.me/cdn/shop/products/ao-polo-nam-xanh-navy.jpg",
+        "https://yody.vn/cdn/shop/products/ao-polo-nam-cao-cap.jpg",
+        "https://routine.vn/cdn/shop/products/ao-polo-nam-den.jpg",
+        "https://anhduc.com.vn/cdn/shop/products/ao-polo-nam.jpg"
+      ]
+    },
+    {
+      "id": "22",
+      "name": "Quần Short Nam Thể Thao",
+      "price": 249000,
+      "sale": 5,
+      "salePrice": 236550,
+      "description": "Quần short thể thao.",
+      "image": "/asm/Frontend/images/a22.jpg",
+      "categoryId": 1,
+      "variants": [
+        {
+          "id": 31,
+          "color": "Đen",
+          "size": "M",
+          "stock": 21
+        },
+        {
+          "id": 32,
+          "color": "Xám",
+          "size": "L",
+          "stock": 17
+        }
+      ],
+      "images": [
+        "/asm/Frontend/images/a22.jpg",
+        "https://coolmate.me/cdn/shop/products/quan-short-nam-the-thao-den.jpg",
+        "https://yody.vn/cdn/shop/products/quan-short-nam-xam.jpg",
+        "https://routine.vn/cdn/shop/products/quan-short-the-thao-nam.jpg",
+        "https://5sfashion.vn/cdn/shop/products/quan-short-nam-den.jpg"
+      ]
+    },
+    {
+      "id": "23",
+      "name": "Chân Váy Nữ Chữ A",
+      "price": 390000,
+      "sale": 15,
+      "salePrice": 331500,
+      "description": "Chân váy chữ A.",
+      "image": "/asm/Frontend/images/a23.webp",
+      "categoryId": 2,
+      "variants": [
+        {
+          "id": 33,
+          "color": "Đen",
+          "size": "S",
+          "stock": 18
+        },
+        {
+          "id": 34,
+          "color": "Nâu",
+          "size": "M",
+          "stock": 20
+        }
+      ],
+      "images": [
+        "/asm/Frontend/images/a23.webp",
+        "https://gumac.vn/cdn/shop/products/chan-vay-nu-chu-a-den.jpg",
+        "https://juno.vn/cdn/shop/products/chan-vay-chu-a-nu.jpg",
+        "https://lamia.com.vn/cdn/shop/products/chan-vay-chu-a-nu-den.jpg",
+        "https://whitechic.vn/cdn/shop/products/chan-vay-chu-a-nu-nau.jpg"
+      ]
+    },
+    {
+      "id": "24",
+      "name": "Áo Khoác Cardigan Nữ",
+      "price": 480000,
+      "sale": 20,
+      "salePrice": 384000,
+      "description": "Áo cardigan nữ Hàn Quốc.",
+      "image": "/asm/Frontend/images/a24.jpg",
+      "categoryId": 2,
+      "variants": [
+        {
+          "id": 35,
+          "color": "Kem",
+          "size": "Free",
+          "stock": 22
+        }
+      ],
+      "images": [
+        "/asm/Frontend/images/a24.jpg",
+        "https://gumac.vn/cdn/shop/products/ao-cardigan-nu-kem.jpg",
+        "https://5sfashion.vn/cdn/shop/products/ao-cardigan-nu-han-quoc.jpg",
+        "https://routine.vn/cdn/shop/products/ao-cardigan-nu-kem.jpg",
+        "https://juno.vn/cdn/shop/products/ao-khoac-cardigan-nu.jpg"
+      ]
+    },
+    {
+      "id": "25",
+      "name": "Áo Thun Bé Trai In Hình",
+      "price": 169000,
+      "sale": 0,
+      "salePrice": 169000,
+      "description": "Áo thun bé trai.",
+      "image": "/asm/Frontend/images/a25.jpg",
+      "categoryId": 3,
+      "variants": [
+        {
+          "id": 36,
+          "color": "Xanh Dương",
+          "size": "100",
+          "stock": 35
+        },
+        {
+          "id": 37,
+          "color": "Đỏ",
+          "size": "110",
+          "stock": 30
+        }
+      ],
+      "images": [
+        "/asm/Frontend/images/a25.jpg",
+        "https://rabity.vn/cdn/shop/products/ao-thun-be-trai-in-hinh-xanh-duong.jpg",
+        "https://yody.vn/cdn/shop/products/ao-thun-tre-em-be-trai-xanh.jpg",
+        "https://litibaby.com/cdn/shop/products/ao-thun-be-trai-in-hinh-do.jpg",
+        "https://hm.com/vi_vn/productpage.123456_be-trai-in-hinh.jpg"
+      ]
+    },
+    {
+      "id": "26",
+      "name": "Bộ Đồ Thể Thao Trẻ Em",
+      "price": 380000,
+      "sale": 10,
+      "salePrice": 342000,
+      "description": "Bộ đồ thể thao trẻ em.",
+      "image": "/asm/Frontend/images/a26.jpg",
+      "categoryId": 3,
+      "variants": [
+        {
+          "id": 38,
+          "color": "Cam",
+          "size": "120",
+          "stock": 20
+        }
+      ],
+      "images": [
+        "/asm/Frontend/images/a26.jpg",
+        "https://decathlon.vn/cdn/shop/products/bo-do-the-thao-tre-em-cam.jpg",
+        "https://yody.vn/cdn/shop/products/bo-the-thao-tre-em-cam.jpg",
+        "https://rabity.vn/cdn/shop/products/bo-do-the-thao-be-cam.jpg",
+        "https://avakids.com/cdn/shop/products/bo-the-thao-tre-em.jpg"
+      ]
+    },
+    {
+      "name": "Giày Sneaker Trẻ Em",
+      "price": 520000,
+      "sale": 15,
+      "salePrice": 442000,
+      "description": "Giày sneaker trẻ em.",
+      "image": "/asm/Frontend/images/a27.webp",
+      "images": [
+        "/asm/Frontend/images/a27.webp",
+        "https://decathlon.vn/cdn/shop/products/giay-sneaker-tre-em-trang.jpg",
+        "https://shopee.vn/giay-sneaker-be-trai-be-gai-trang-den.jpg",
+        "https://yody.vn/cdn/shop/products/giay-the-thao-tre-em-trang.jpg",
+        "https://rabity.vn/cdn/shop/products/giay-sneaker-tre-em-den.jpg"
+      ],
+      "categoryId": 3,
+      "variants": [
+        {
+          "id": 39,
+          "color": "Trắng",
+          "size": "30",
+          "stock": 15
+        }
+      ],
+      "id": "27"
+    },
+    {
+      "id": "28",
+      "name": "Đồng Hồ Thời Trang Unisex",
+      "price": 890000,
+      "sale": 25,
+      "salePrice": 667500,
+      "description": "Đồng hồ unisex tối giản.",
+      "image": "/asm/Frontend/images/a28.jpg",
+      "categoryId": 4,
+      "variants": [
+        {
+          "id": 41,
+          "color": "Đen",
+          "stock": 20
+        },
+        {
+          "id": 42,
+          "color": "Bạc",
+          "stock": 18
+        }
+      ],
+      "images": [
+        "/asm/Frontend/images/a28.jpg",
+        "https://routine.vn/cdn/shop/products/dong-ho-unisex-den.jpg",
+        "https://gumac.vn/cdn/shop/products/dong-ho-thoi-trang-bac.jpg",
+        "https://juno.vn/cdn/shop/products/dong-ho-unisex-toi-gian.jpg",
+        "https://charleskeith.vn/cdn/shop/products/dong-ho-den-unisex.jpg"
+      ]
+    },
+    {
+      "name": "Vòng Tay ",
+      "price": 220000,
+      "sale": 5,
+      "salePrice": 209000,
+      "description": "Vòng tay cá tính.",
+      "image": "/asm/Frontend/images/a29.avif",
+      "images": [
+        "/asm/Frontend/images/a29.avif",
+        "https://juno.vn/cdn/shop/products/vong-tay-thoi-trang-den.jpg",
+        "https://ngaosofficial.com/cdn/shop/products/vong-tay-ca-tinh-den.jpg",
+        "https://gumac.vn/cdn/shop/products/vong-tay-nu-den.jpg",
+        "https://5sfashion.vn/cdn/shop/products/vong-tay-thoi-trang.jpg"
+      ],
+      "categoryId": 4,
+      "variants": [
+        {
+          "id": 43,
+          "color": "Đen",
+          "size": "",
+          "stock": 40
+        }
+      ],
+      "id": "29"
+    }
+  ],
+  "users": [
+    {
+      "id": "a967",
+      "email": "thayhien@gmail.com",
+      "password": "123"
+    },
+    {
+      "id": "9056",
+      "email": "admin@fpt.edu.vn",
+      "password": "1234"
+    },
+    {
+      "id": "c240",
+      "email": "le582041@gmail.com",
+      "password": "123"
+    }
+  ],
+  "carts": [
+    {
+      "id": "4cdc",
+      "productId": "2",
+      "variantId": 5,
+      "quantity": 1
+    },
+    {
+      "id": "ca56",
+      "productId": "7",
+      "variantId": 15,
+      "quantity": 1
+    }
+  ]
+}

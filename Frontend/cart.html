@@ -1,0 +1,41 @@
+<!doctype html>
+<html lang="vi">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>Giỏ hàng - Hữu Store</title>
+    <link
+      rel="stylesheet"
+      href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.5.0/css/all.min.css"
+    />
+    <link rel="stylesheet" href="style.css" />
+  </head>
+  <body>
+    <main class="cart-page container">
+      <h1>Giỏ hàng</h1>
+
+      <div id="cart-list"></div>
+
+      <div class="cart-summary" id="cart-summary" style="display: none">
+        <h3>Tổng tiền: <span id="total-price">0₫</span></h3>
+        <button class="btn primary" id="checkout-btn">Thanh toán</button>
+      </div>
+
+      <p
+        id="empty-cart-msg"
+        style="
+          text-align: center;
+          padding: 60px 0;
+          font-size: 1.2rem;
+          color: #777;
+        "
+      >
+        Giỏ hàng của bạn đang trống. Hãy thêm sản phẩm nhé!
+      </p>
+    </main>
+
+    <!-- Import main.ts để dùng chung header, footer, và thêm hàm render giỏ hàng -->
+    <script type="module" src="main.js"></script>
+    <!-- hoặc main.ts nếu bạn dùng ts dev server -->
+  </body>
+</html>

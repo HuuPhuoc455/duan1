@@ -1,0 +1,79 @@
+<!doctype html>
+<html lang="vi">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>Sản phẩm - Hữu Store</title>
+    <link
+      rel="stylesheet"
+      href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.5.0/css/all.min.css"
+    />
+    <link rel="stylesheet" href="style.css" />
+  </head>
+  <body>
+    <!-- Header & Footer sẽ được chèn bởi main.js -->
+
+    <div class="breadcrumb">
+      <div class="container">
+        <a href="index.html">Trang chủ</a> /
+        <span class="current">Sản phẩm</span>
+      </div>
+    </div>
+
+    <main class="container products-page section">
+      <div class="row">
+        <!-- Sidebar -->
+        <aside class="sidebar">
+          <div class="filter-box">
+            <h4>Danh mục sản phẩm</h4>
+            <ul class="category-filter-list" id="category-filter">
+              <li class="active" data-category="all">
+                <a href="#">Tất cả sản phẩm</a>
+              </li>
+              <!-- Danh mục động sẽ được render bởi JS -->
+            </ul>
+          </div>
+        </aside>
+
+        <!-- Nội dung sản phẩm -->
+        <section class="products-content">
+          <h2>Sản phẩm</h2>
+          <div class="product-grid" id="product-list">
+            <!-- Loading ban đầu -->
+            <div
+              id="loading"
+              style="
+                padding: 80px 0;
+                text-align: center;
+                color: var(--gray);
+                font-size: 1.2rem;
+              "
+            >
+              <i class="fas fa-spinner fa-spin"></i> Đang tải sản phẩm...
+            </div>
+          </div>
+          <div
+            id="no-products"
+            style="
+              display: none;
+              padding: 80px 0;
+              text-align: center;
+              color: var(--gray);
+              font-size: 1.2rem;
+            "
+          >
+            Không tìm thấy sản phẩm nào phù hợp...
+          </div>
+          <!-- Phân trang -->
+          <div
+            id="pagination"
+            class="pagination"
+            style="display: none; text-align: center; margin-top: 40px"
+          ></div>
+        </section>
+      </div>
+    </main>
+
+    <script type="module" src="main.js"></script>
+  </body>
+</html>
