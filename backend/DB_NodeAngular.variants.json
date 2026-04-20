@@ -1,0 +1,169 @@
+[{
+  "_id": {
+    "$oid": "681d558fc6e65f7dcb23f92f"
+  },
+  "name": "Đà Nẵng 3 ngày 2 đêm",
+  "price": 3200000,
+  "duration": "3 ngày 2 đêm",
+  "sale": 2900000,
+  "productId": {
+    "$oid": "672839d9d3b1465fd6f94ef1"
+  },
+  "img": "danang_3n2d.jpeg"
+},
+{
+  "_id": {
+    "$oid": "681d558fc6e65f7dcb23f930"
+  },
+  "name": "Đà Nẵng 2 ngày 1 đêm",
+  "price": 2500000,
+  "duration": "2 ngày 1 đêm",
+  "sale": 2200000,
+  "productId": {
+    "$oid": "672839d9d3b1465fd6f94ef1"
+  },
+  "img": "danang_2n1d.jpeg"
+},
+{
+  "_id": {
+    "$oid": "681d558fc6e65f7dcb23f931"
+  },
+  "name": "Đà Lạt 3 ngày 2 đêm",
+  "price": 4200000,
+  "duration": "3 ngày 2 đêm",
+  "sale": 3900000,
+  "productId": {
+    "$oid": "672839d9d3b1465fd6f94ef2"
+  },
+  "img": "dalat_3n2d.jpeg"
+},
+{
+  "_id": {
+    "$oid": "681d558fc6e65f7dcb23f932"
+  },
+  "name": "Đà Lạt 2 ngày 1 đêm",
+  "price": 3500000,
+  "duration": "2 ngày 1 đêm",
+  "sale": 3200000,
+  "productId": {
+    "$oid": "672839d9d3b1465fd6f94ef2"
+  },
+  "img": "dalat_2n1d.jpeg"
+},
+{
+  "_id": {
+    "$oid": "681d558fc6e65f7dcb23f933"
+  },
+  "name": "Nha Trang 3 ngày 2 đêm",
+  "price": 2500000,
+  "duration": "3 ngày 2 đêm",
+  "sale": 2200000,
+  "productId": {
+    "$oid": "672839d9d3b1465fd6f94ef5"
+  },
+  "img": "nhatrang_3n2d.jpeg"
+},
+{
+  "_id": {
+    "$oid": "681d558fc6e65f7dcb23f934"
+  },
+  "name": "Nha Trang 2 ngày 1 đêm",
+  "price": 2000000,
+  "duration": "2 ngày 1 đêm",
+  "sale": 1800000,
+  "productId": {
+    "$oid": "672839d9d3b1465fd6f94ef5"
+  },
+  "img": "nhatrang_2n1d.jpeg"
+},
+{
+  "_id": {
+    "$oid": "681d558fc6e65f7dcb23f935"
+  },
+  "name": "Phú Quốc 3 ngày 2 đêm",
+  "price": 3200000,
+  "duration": "3 ngày 2 đêm",
+  "sale": 2900000,
+  "productId": {
+    "$oid": "672839d9d3b1465fd6f94ef8"
+  },
+  "img": "phuquoc_3n2d.jpeg"
+},
+{
+  "_id": {
+    "$oid": "681d558fc6e65f7dcb23f936"
+  },
+  "name": "Phú Quốc 2 ngày 1 đêm",
+  "price": 2800000,
+  "duration": "2 ngày 1 đêm",
+  "sale": 2500000,
+  "productId": {
+    "$oid": "672839d9d3b1465fd6f94ef8"
+  },
+  "img": "phuquoc_2n1d.jpeg"
+},
+{
+  "_id": {
+    "$oid": "681d558fc6e65f7dcb23f937"
+  },
+  "name": "Campuchia 3 ngày 2 đêm",
+  "price": 5000000,
+  "duration": "3 ngày 2 đêm",
+  "sale": 4500000,
+  "productId": {
+    "$oid": "672839d9d3b1465fd6f94efa"
+  },
+  "img": "campuchia_3n2d.jpeg"
+},
+{
+  "_id": {
+    "$oid": "681d558fc6e65f7dcb23f938"
+  },
+  "name": "Nhật Bản 5 ngày 4 đêm",
+  "price": 25000000,
+  "duration": "5 ngày 4 đêm",
+  "sale": 23000000,
+  "productId": {
+    "$oid": "672839d9d3b1465fd6f94efb"
+  },
+  "img": "nhatban_5n4d.jpeg"
+},
+{
+  "_id": {
+    "$oid": "681d558fc6e65f7dcb23f939"
+  },
+  "name": "Singapore 4 ngày 3 đêm",
+  "price": 15000000,
+  "duration": "4 ngày 3 đêm",
+  "sale": 14000000,
+  "productId": {
+    "$oid": "672839d9d3b1465fd6f94efc"
+  },
+  "img": "singapore_4n3d.jpeg"
+},
+{
+  "_id": {
+    "$oid": "681d558fc6e65f7dcb23f93a"
+  },
+  "name": "Thái Lan 4 ngày 3 đêm",
+  "price": 12000000,
+  "duration": "4 ngày 3 đêm",
+  "sale": 11000000,
+  "productId": {
+    "$oid": "672839d9d3b1465fd6f94efd"
+  },
+  "img": "thailan_4n3d.jpeg"
+},
+{
+  "_id": {
+    "$oid": "681d558fc6e65f7dcb23f93b"
+  },
+  "name": "Trung Quốc 6 ngày 5 đêm",
+  "price": 20000000,
+  "duration": "6 ngày 5 đêm",
+  "sale": 18000000,
+  "productId": {
+    "$oid": "672839d9d3b1465fd6f94efe"
+  },
+  "img": "trungquoc_6n5d.jpeg"
+}]

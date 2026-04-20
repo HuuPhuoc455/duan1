@@ -1,0 +1,42 @@
+{
+  "orderId": "order_001",
+  "userId": "user_001",
+  "items": [
+    {
+      "productId": "672839d9d3b1465fd6f94ef1",
+      "name": "Du lịch Đà Nẵng",
+      "img": "danang.jpeg",
+      "price": 3500000,
+      "quantity": 2,
+      "total": 7000000
+    },
+    {
+      "productId": "672839d9d3b1465fd6f94ef6",
+      "name": "Du lịch Ninh Chữ",
+      "img": "ninhchu.jpeg",
+      "price": 2800000,
+      "quantity": 1,
+      "total": 2800000
+    },
+    {
+      "productId": "672839d9d3b1465fd6f94efb",
+      "name": "Du lịch Nhật Bản",
+      "img": "nhatban.jpeg",
+      "price": 15000000,
+      "quantity": 1,
+      "total": 15000000
+    }
+  ],
+  "totalQuantity": 4,
+  "totalPrice": 24800000,
+  "customerInfo": {
+    "name": "Nguyễn Văn A",
+    "phone": "0901234567",
+    "email": "vana@example.com",
+    "address": "TP.HCM"
+  },
+  "paymentMethod": "COD",
+  "paymentStatus": "unpaid",
+  "orderStatus": "pending",
+  "createdAt": "2026-04-15T10:30:00Z"
+}

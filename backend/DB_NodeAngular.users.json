@@ -1,0 +1,17 @@
+[
+  {
+    "_id": {
+      "$oid": "67b461058d49d9b55c1b2324"
+    },
+    "email": "ti@gmail.com",
+    "password": "$2b$10$j23yiJQ4PLN.UZpyK2j40eX.4Wbt8JRB6A0ZJGyDQgCDw1N7CG8Vq"
+  },
+  {
+    "_id": {
+      "$oid": "67b92bce7728a6d6b3fe6a17"
+    },
+    "email": "admin@gmail.com",
+    "password": "$2b$10$j23yiJQ4PLN.UZpyK2j40eX.4Wbt8JRB6A0ZJGyDQgCDw1N7CG8Vq",
+    "role": "admin"
+  }
+]

@@ -1,0 +1,158 @@
+[
+  {
+    "_id": {
+      "$oid": "672839d9d3b1465fd6f94ef1"
+    },
+    "name": "Du lịch Đà Nẵng",
+    "categoryId": {
+      "$oid": "6771564e018cfe84b15c6b42"
+    },
+    "img": "danang.jpeg",
+    "description": "Đối với du khách, một địa điểm du lịch được yêu thích không chỉ bởi sự thu hút từ cảnh quan thiên nhiên hấp dẫn, mà còn ở lòng hiếu khách, sự thân thiện của con người. Những \"thiên đường du lịch\" thân thiện, gần gũi nhất Việt Nam có thể kể đến là: Cù Lao Chàm, đảo Lý Sơn, Côn Đảo, phố cổ Hội An, và thành phố Đà Nẵng.",
+    "hot": 1
+  },
+  {
+    "_id": {
+      "$oid": "672839d9d3b1465fd6f94ef2"
+    },
+    "name": "Du lịch Đà Lạt",
+    "categoryId": {
+      "$oid": "6771564e018cfe84b15c6b42"
+    },
+    "img": "dalat.jpeg",
+    "description": "Đà Lạt là một thành phố nằm ở miền Trung Việt Nam, nổi tiếng với kiến trúc cổ điển, hồ nước xanh biếc và những cánh đồng hoa đẹp mắt. Đà Lạt còn được biết đến với tên gọi \"Thành phố của ngàn hoa\".",
+    "hot": 0
+  },
+  {
+    "_id": {
+      "$oid": "672839d9d3b1465fd6f94ef4"
+    },
+    "name": "Du lịch Hạ Long",
+    "categoryId": {
+      "$oid": "6771564e018cfe84b15c6b42"
+    },
+    "img": "halong.jpeg",
+    "description": "Hạ Long là một thành phố nằm ở miền Bắc Việt Nam, nổi tiếng với vịnh Hạ Long, một trong bảy kỳ quan thiên nhiên mới của thế giới.",
+    "hot": 0
+  },
+  {
+    "_id": {
+      "$oid": "672839d9d3b1465fd6f94ef5"
+    },
+    "name": "Du lịch Nha Trang",
+    "categoryId": {
+      "$oid": "6771564e018cfe84b15c6b42"
+    },
+    "img": "nhatrang.jpeg",
+    "description": "Nha Trang là một thành phố nằm ở miền Trung Việt Nam, nổi tiếng với bãi biển đẹp, nước biển trong xanh và những đảo đẹp mắt.",
+    "hot": 0
+  },
+  {
+    "_id": {
+      "$oid": "672839d9d3b1465fd6f94ef6"
+    },
+    "name": "Du lịch Ninh Chữ",
+    "categoryId": {
+      "$oid": "6771564e018cfe84b15c6b42"
+    },
+    "img": "ninhchu.jpeg",
+    "description": "Ninh Chữ là một bãi biển nằm ở miền Trung Việt Nam, nổi tiếng với bãi biển đẹp, nước biển trong xanh và những đảo đẹp mắt.",
+    "hot": 1
+  },
+  {
+    "_id": {
+      "$oid": "672839d9d3b1465fd6f94ef7"
+    },
+    "name": "Du lịch Phan Thiết",
+    "categoryId": {
+      "$oid": "6771564e018cfe84b15c6b42"
+    },
+    "img": "phanthiet.jpeg",
+    "description": "Phan Thiết là một thành phố nằm ở miền Nam Việt Nam, nổi tiếng với bãi biển đẹp và nước biển trong xanh.",
+    "hot": 0
+  },
+  {
+    "_id": {
+      "$oid": "672839d9d3b1465fd6f94ef8"
+    },
+    "name": "Du lịch Phú Quốc",
+    "categoryId": {
+      "$oid": "6771564e018cfe84b15c6b42"
+    },
+    "img": "phuquoc.jpeg",
+    "description": "Phú Quốc là một hòn đảo nằm ở miền Nam Việt Nam, nổi tiếng với bãi biển đẹp, nước biển trong xanh và những đảo đẹp mắt.",
+    "hot": 0
+  },
+  {
+    "_id": {
+      "$oid": "672839d9d3b1465fd6f94ef9"
+    },
+    "name": "Du lịch Phú Quý",
+    "categoryId": {
+      "$oid": "6771564e018cfe84b15c6b42"
+    },
+    "img": "phuquy.jpeg",
+    "description": "Phú Quý là một hòn đảo nằm ở miền Nam Việt Nam, nổi tiếng với bãi biển đẹp, nước biển trong xanh và những đảo đẹp mắt.",
+    "hot": 0
+  },
+  {
+    "_id": {
+      "$oid": "672839d9d3b1465fd6f94efa"
+    },
+    "name": "Du lịch Campuchia",
+    "categoryId": {
+      "$oid": "67c59b0fb67ca3b56852178a"
+    },
+    "img": "campuchia.jpeg",
+    "description": "Campuchia là một quốc gia nằm ở Đông Nam Á, nổi tiếng với những di tích lịch sử, văn hóa và kiến trúc cổ kính.",
+    "hot": 0
+  },
+  {
+    "_id": {
+      "$oid": "672839d9d3b1465fd6f94efb"
+    },
+    "name": "Du lịch Nhật Bản",
+    "categoryId": {
+      "$oid": "67c59b0fb67ca3b56852178a"
+    },
+    "img": "nhatban.jpeg",
+    "description": "Nhật Bản là một quốc gia nằm ở châu Á, nổi tiếng với văn hóa truyền thống, ẩm thực đa dạng và hiện đại, cùng với những công nghệ tiên tiến.",
+    "hot": 1
+  },
+  {
+    "_id": {
+      "$oid": "672839d9d3b1465fd6f94efc"
+    },
+    "name": "Du lịch Singapore",
+    "categoryId": {
+      "$oid": "67c59b0fb67ca3b56852178a"
+    },
+    "img": "singapore.jpeg",
+    "description": "Singapore là một quốc gia nằm ở Đông Nam Á, nổi tiếng với văn hóa đa dạng, hiện đại và sạch sẽ.",
+    "hot": 1
+  },
+  {
+    "_id": {
+      "$oid": "672839d9d3b1465fd6f94efd"
+    },
+    "name": "Du lịch Thái Lan",
+    "categoryId": {
+      "$oid": "67c59b0fb67ca3b56852178a"
+    },
+    "img": "thailan.jpeg",
+    "description": "Thái Lan là một quốc gia nằm ở Đông Nam Á, nổi tiếng với văn hóa truyền thống, ẩm thực đa dạng và đẹp mắt.",
+    "hot": 1
+  },
+  {
+    "_id": {
+      "$oid": "672839d9d3b1465fd6f94efe"
+    },
+    "name": "Du lịch Trung Quốc",
+    "categoryId": {
+      "$oid": "67c59b0fb67ca3b56852178a"
+    },
+    "img": "trungquoc.jpeg",
+    "description": "Trung Quốc là một quốc gia nằm ở châu Á, nổi tiếng với văn hóa truyền thống, ẩm thực đa dạng và đẹp mắt.",
+    "hot": 1
+  }
+]

@@ -1,0 +1,14 @@
+[{
+  "_id": {
+    "$oid": "6771564e018cfe84b15c6b42"
+  },
+  "name": "Du Lịch Trong Nước",
+  "img": "1.jpeg"
+},
+{
+  "_id": {
+    "$oid": "67c59b0fb67ca3b56852178a"
+  },
+  "name": "Du Lịch Quốc Tế",
+  "img": "2.jpeg"
+}]
